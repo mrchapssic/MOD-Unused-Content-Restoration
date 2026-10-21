@@ -20,3 +20,5 @@ A mod for restoring unused materials and resources from game files that were not
  + 2 swords
 
 ### We've made some secret items to find them you need to use eye of truth !
+### How do I install this mod? 
+Simply place the files into the 'data' folder, overwriting existing files.
